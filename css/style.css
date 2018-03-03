@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+body {
+  font-family: 'Amatic SC', cursive;
+}
+
+.headerBox {
+  width: 180px;
+  margin: 10px auto 10px;
+  text-align: center; 
+  background: #faf8ee;
+  border: 2px solid black;
+}
+
+.standardContainer {
+  width: 1000px;
+  margin: 10px auto 0;
+  background:;
+  padding: 10px;
+  text-align: center;
+}
+
+#pandaGallery {
+  width: 800px;
+  margin: 10px auto 0;
+  padding: 10px;
+  opacity: 1;
+}
+
+.pandaBox {
+  background: #faf8ee;
+  border: 2px solid black;
+  opacity: 1;
+  width: 150px;
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 17px;
+  position: relative;
+}
+
+.pandaImgDiv {
+  background: #faf8ee;
+  position: absolute;
+  width: 150px;
+  height: 130px;
+  z-index: 1;
+}
+
+.pandaBox img {
+  padding: 10px;
+}
+
+.button {
+  margin: 0px auto 0px;
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+  display: block;
+  font-family: 'Amatic SC', cursive;
+  background: #faf8ee;	
+  border: 1px solid black;
+}
+
+body {
+  background: #EE6146
+}
+
+.endGameDiv {
+  display: block;
+  background: #faf8ee;
+  border: 2px solid black;
+  margin: 5px auto 5px;
+  width: 700px;
+  padding: 0px 20px 0px 20px;
+}
+
+.endGameText {
+  font-size: 500%;
+  text-align: center;
+}
+
+#startingTextDiv {
+  display: block;
+  background: #faf8ee;
+  border: 2px solid black;
+  margin: 5px auto 5px;
+  width: 700px;
+  padding: 0px 20px 0px 20px;
+  text-align: center;
+  line-height: 200%;
+  font-size: 120%;
+}
+
+
+
+/* filter: grayscale(100%);
+    transition: 350ms transform ease-out;
+    transform: rotate(90deg) translateX(20px); */
+
+
+
+
